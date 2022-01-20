@@ -27,4 +27,4 @@ or more spaces to the line to be suffixed by a newline. Yeah.
  👖  
  🐾
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>⮤ chad emoji art by [@posita](https://github.com/posita), who invites you to [roll dyce](https://github.com/posita/dyce) and [check numbers](https://github.com/posita/numerary)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>⮤ chad emoji art by [@posita](https://github.com/posita), who invites you to [roll dyce](https://github.com/posita/dyce) with him</sub>
